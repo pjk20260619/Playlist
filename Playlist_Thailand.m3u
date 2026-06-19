@@ -1,0 +1,699 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Thailand.png" group-title="Thailand",-= Thailand =-
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=16619&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",&flix (Movies) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115601&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",&pictures TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115602&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Law & Crime (Sling) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115603&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Mix Major TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115604&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/altv4.png" group-title="Thailand",ALTV 4 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115605&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Al Jazeera Asia TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115606&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Amarin HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115297&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/monoplus.png" group-title="Thailand",Mono Plus HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115608&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="Thailand",Animal Planet TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115610&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/aniplus.png" group-title="Thailand",ANIPLUS TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115609&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai Binh TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115308&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/asianfoodchannel.png" group-title="Thailand",Asian Food Channel TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115611&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Asian Series HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115612&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/astrocricket.png" group-title="Thailand",Astro Cricket HD TH 
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115614&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 1 HD TH MY
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115615&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 2 HD TH MY
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115616&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 3 HD TH MY
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115617&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 4 HD TH MY
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115618&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ASTV News HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=38202&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/axn.png" group-title="Thailand",AXN HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115619&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/axn.png" group-title="Thailand",AXN TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115620&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Asian More HD (Truevision) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563002&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Asian More SD (Truevision) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563003&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/uniquelythai.png" group-title="Thailand",Uniquely Thai TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813044&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",BTV NEWS KHMER TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813043&extension=ts
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="Thailand",Baby TV TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115410&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Black Cinema (Sling) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563014&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/bbcearth.png" group-title="Thailand",BBC Earth HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115621&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",BBC Earth [Thai] TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115624&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",BBC Lifestyle HD/Disc.Science [Thai] TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115625&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/bbclifestyle.png" group-title="Thailand",BBC Lifestyle HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115626&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/bbcworldnews.png" group-title="Thailand",BBC World News HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115627&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/blueantentertainment.png" group-title="Thailand",Blue Ant Entertainment HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115628&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/blueantentertainment.png" group-title="Thailand",Blue Ant Entertainment TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115629&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/v2h6.png" group-title="Thailand",V2H6 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115630&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/blueantextreme.png" group-title="Thailand",Blue Ant Extreme TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115631&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/boonniyomtv.png" group-title="Thailand",Boonniyom TV HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115834&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CABLE SERIES 1 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115598&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CABLE SERIES 2 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115599&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CABLE SERIES 3 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115600&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="Thailand",Cartoon Network HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115632&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CartoonClub TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115633&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/celestialclassicmovies.png" group-title="Thailand",Celestial Classic Movies TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115635&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Celestial Classic Movies [Thai-ENG] TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115636&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Ch8 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115341&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/channel3.png" group-title="Thailand",Channel 3 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115313&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/channel5.png" group-title="Thailand",Channel 5 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115640&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/channel5.png" group-title="Thailand",Channel 5 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115641&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/channel7.png" group-title="Thailand",Channel 7 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115642&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/channel8.png" group-title="Thailand",Channel 8 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115644&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Thailand",CINEMAX HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=116078&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Thailand",Cinemax TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115646&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Thailand",CINEMAX TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=116079&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cnnindonesia.png" group-title="Thailand",CNN Indonesia TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115307&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="Thailand",CNN TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115634&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/crimeinvestigation.png" group-title="Thailand",Crime & Investigation TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115649&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CCTV 5+ Sport HD (CN) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563008&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/channelnewsasia.png" group-title="Thailand",Channel News Asia TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563000&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cnbcasia.png" group-title="Thailand",CNBC Asia TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=562999&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/traveltv.png" group-title="Thailand",Travel TV (CN) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563013&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Chinese More HD (Truevision) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563004&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Chinese More (Truevision) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563005&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Discovery Asia HD TH [Thai-ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115650&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Discovery HD TH [Thai-ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115652&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="Thailand",Discovery TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115399&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Disney Junior [Thai] TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115654&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 1 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115835&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 10 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115844&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 11 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115845&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 12 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115846&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 13 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115847&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 14 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115848&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 15 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115849&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 2 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115836&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 3 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115837&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 4 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115838&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 5 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115839&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 6 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115840&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 7 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115841&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 8 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115842&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 9 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115843&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Dazzling Cartoon (CN) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563010&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Dreamworks HD (Truevision) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563011&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Dreamsworks (Truevision) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563012&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Explore Life TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115659&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Explore Science HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115660&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/impactwrestling.png" group-title="Thailand",Impact Wrestling HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115663&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/fightnight.png" group-title="Thailand",Fight Night TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115320&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Film HD TH 2 TH  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115415&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FILM HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115667&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FILM TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115414&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FILMASIA HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115665&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sbbtv.png" group-title="Thailand",SBB TV HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115412&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/foodnetwork.png" group-title="Thailand",Food Network HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115672&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Action HD TH [Thai-ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115673&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/foxaction.png" group-title="Thailand",Fox Action TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115420&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Family Movies HD TH [Thai-ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115675&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/foxfamilymovies.png" group-title="Thailand",Fox Family Movies TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115422&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Life HD TH [Thai-ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115679&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/foxlife.png" group-title="Thailand",Fox Life TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115426&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/foxmoviespremium.png" group-title="Thailand",Fox Movies Premium TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115424&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Family Flix (Eng) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563015&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",SPOtv 1 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115304&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",SPOtv 1 HD TH  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115427&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",SPOtv 1 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115682&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",SPOtv 1 TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115684&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/spotv2.png" group-title="Thailand",SPOtv 2 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115305&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",SPOtv 2 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115686&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",SPOtv 2 TH  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115433&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",SPOtv 2 TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115688&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",SPOtv 3 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115306&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",SPOtv 3 TH  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115689&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",SPOtv 3 TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115690&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FOX Thai HD TH  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115691&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FOX Thai TH  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115439&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FOX Thai TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115694&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",GMM Channel TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115441&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/gmmone.png" group-title="Thailand",GMM One TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115443&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Golf 2 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115698&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Golf 2 TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115699&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Golf Channel Thailand HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115446&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",GOLF HD TH  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115702&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Astro Golf HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115703&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",KMTV/ Good Idea TV TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115326&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/hbosignature.png" group-title="Thailand",HBO Signature TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115708&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",HBO TH  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115704&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",HBO TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115705&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/hbohits.png" group-title="Thailand",HBO Hits HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115833&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",HBO Family HD (Truevision) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563001&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",History 2 HD TH  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115710&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",History 2 HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115711&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",History 2 TH  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115712&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",History 2 TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115713&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",History HD TH  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115714&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",History HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115715&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/movies.png" group-title="Thailand",Hits-Movies HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115720&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Inside HD TH 
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115721&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kbsworld.png" group-title="Thailand",KBS World HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115723&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Korean More HD (Truevision) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563006&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Korean More SD (Truevision) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563007&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Lao Campa TV TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115331&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Lao Campa TV2 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115332&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Lao-Thai TV USA TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115333&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Laos DDTV TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115335&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Laos ISTV TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115336&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Laos TV TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115330&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Love Nature HD (TH-ENG)
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115724&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Lifetime (Truevision) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=562996&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Lifetime HD (Truevision) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=562998&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Latin Zone TV TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=563009&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",TVK KHMER TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813040&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",TV9 KHMER TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813039&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",TV5 KHMER TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813038&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/majorchannelmix.png" group-title="Thailand",Major Channel Mix TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115725&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MajorMix TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115310&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mcot.png" group-title="Thailand",MCOT TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115727&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mono29.png" group-title="Thailand",MONO29 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115728&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Mono Music TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813042&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MOVIE-HITS TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115729&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MTN News TH (KR)
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115730&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MTV YO! TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115323&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Nickelodeon (Thai AISPlay) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115731&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MVLAO TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115334&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Nat Geo HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115733&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/natgeowild.png" group-title="Thailand",Nat Geo Wild HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115735&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nationtv.png" group-title="Thailand",NATION TV TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115737&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nba.png" group-title="Thailand",NBA HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115738&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nba.png" group-title="Thailand",NBA TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115302&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tptv.png" group-title="Thailand",TPTV HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115337&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nbtworld.png" group-title="Thailand",NBT World HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115740&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/altv.png" group-title="Thailand",ALTV HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115343&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nfl.png" group-title="Thailand",NFL HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115742&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nfl.png" group-title="Thailand",NFL TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115743&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nhkworldjapan.png" group-title="Thailand",NHK World Japan TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115745&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/astvnews1.png" group-title="Thailand",ASTV News 1 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813041&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/outdoorchannel.png" group-title="Thailand",Outdoor Channel HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115749&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/paramount.png" group-title="Thailand",Paramount TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115498&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/pbs.png" group-title="Thailand",PBS HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=38128&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/phoenixinfonews.png" group-title="Thailand",Phoenix InfoNews (CN)
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115499&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/policetv.png" group-title="Thailand",Police TV HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=116076&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/pptv.png" group-title="Thailand",PPTV HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115501&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/pptv.png" group-title="Thailand",PPTV TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115756&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football 1 TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115757&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 1  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115758&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 1 [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115759&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 1-X [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115760&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 2  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115762&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 2  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115508&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 2-X [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115509&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 3
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115510&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 3 [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115511&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 3-X
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115512&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 4
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115513&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 4-X
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115768&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 5
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115515&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 1  [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115516&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 1-X [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115771&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 2 [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115518&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 3
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115520&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 3 [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115521&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 3-X
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115522&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 4
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115523&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 4-X
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115524&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 5
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115525&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai League 1 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813045&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai League 2 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813046&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai League 3 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813047&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai League 4 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813048&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai League 5 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813049&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",3BB Asian HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813028&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",3BB Sport HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813029&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",3BB-Ball 1 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813030&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",3BB-Ball 2 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813031&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",3BB-Ball 3 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813032&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Monomax 1 Premiere League HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813033&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Monomax 2 Premiere League HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813034&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Monomax 3 Premiere League HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813035&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Monomax 4 Premiere League HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813036&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Monomax 5 Premiere League HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813037&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/realitychannel.png" group-title="Thailand",Reality Channel HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115526&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/retromusic.png" group-title="Thailand",Retro Music TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115322&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Rock Entertainment HD (True) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=562995&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Rock Action HD (Truevision) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=562997&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/russiatoday.png" group-title="Thailand",Russia Today TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115527&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",SERIES [Thai] TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115782&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Skynetsport 3 FHD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115937&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skynetsports1.png" group-title="Thailand",Skynetsports 1 FHD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115850&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skynetsports2.png" group-title="Thailand",Skynetsports 2 FHD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115851&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Spark Jump TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115529&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Spark Play [THAI] TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115784&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport 2 TH [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115790&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport 2 [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115534&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport 5 TH [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115541&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport 6 TH [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115542&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport 7 TH [ENG]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115798&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport 7 TH [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115799&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport HD TH 1[THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115531&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport HD TH 2 [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115533&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport HD TH 3 [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115537&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport TH 1 [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115532&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport TH 2 [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115535&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport TH 3 [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115538&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Star Chinese Classics HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115546&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Star Chinese Classics TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115547&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starchinesemovies.png" group-title="Thailand",Star Chinese Movies HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115802&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox News Asia HD (Eng) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115804&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Super Bunteung/FightBox
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115500&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tennis.png" group-title="Thailand",Tennis HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115805&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai 33 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115299&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai BeIN Sports 1 HD TH [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115807&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai BeIN Sports 2 HD TH [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115809&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai BeIN Sports 3 TH [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=813150&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai BeIN Sports 4 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376225&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai BeIN Sports 5 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376226&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai BeIN Sports 6 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376227&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai BeIN Sports 7 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376228&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai BeIN Sports 8 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376229&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai BeIN Sports 9 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376230&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai Film HD TH [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115416&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai Film TH [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115417&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai Parliament TV TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115811&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/thaipbs.png" group-title="Thailand",Thai PBS HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=38107&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai PBS HD TH [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115812&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/thairath.png" group-title="Thailand",Thairath HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115328&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ThaiRath HD TH [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115814&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="Thailand",TLC HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115402&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="Thailand",TLC TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115403&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tnn2.png" group-title="Thailand",TNN 2 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115816&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",TNN24 TH [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115817&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/toonee.png" group-title="Thailand",Toonee TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115819&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Top News HD TH [Thai]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115818&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tracesport.png" group-title="Thailand",Trace Sport TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115318&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/suwannabhumichannel.png" group-title="Thailand",Suwannabhumi Channel HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115832&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/truemusic.png" group-title="Thailand",True Music TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115820&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/true4u.png" group-title="Thailand",True4U TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115301&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Cable 37 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115831&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tvdirect.png" group-title="Thailand",TV Direct TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115339&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",TVB HD (Movies) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115317&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/wsport.png" group-title="Thailand",W Sport HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417232&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/warnertv.png" group-title="Thailand",Warner TV HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115823&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/whitechannel.png" group-title="Thailand",White Channel FHD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=37103&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Thailand",Nick Jr. HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115825&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Workpoint TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115826&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",YTN [THAI]
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115829&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Mangkorn Channel HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=115830&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",KBS Drama HD (Korea) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=116071&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",X-Zyte HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=116072&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Boomerang (True) TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=116073&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Spark Play/Topfight HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=116075&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 01 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417233&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 01 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417234&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 02 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417236&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 02 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417235&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 03 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417238&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 03 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417237&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 04 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417240&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 04 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417239&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 05 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417242&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 05 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417241&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 06 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417244&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 06 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417243&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 07 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417246&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 07 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417245&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 08 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417248&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 08 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417247&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TLP 09 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417250&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 09 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417249&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 10 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417252&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 10 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417251&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 11 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417254&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 11 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417253&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 12 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417255&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 12 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417256&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 13 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417258&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 13 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417257&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 14 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417260&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 14 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417259&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 15 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417262&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO TPL 15 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1417261&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 1 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376195&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 2 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376202&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 2 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376201&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 3 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376204&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 3 HD
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376203&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 4 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376206&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 4 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376205&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 5 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376208&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 5 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376234&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 6 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376236&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 7 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376211&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 6 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376237&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 7 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376212&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 7 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376238&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 8 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376213&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 8 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376241&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 9 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376243&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live 9 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376242&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376233&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Live TH 1 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376196&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Play 1 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376218&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Play 1 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376244&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Play 2 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376220&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Play 2 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376219&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Play 2 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376247&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Play 3 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376222&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Play 3 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376248&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Play 4 TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376224&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AIS Play 4 HD TH
+http://45.139.122.199:80/play/live.php?mac=10:27:BE:50:26:7D&stream=1376250&extension=ts
