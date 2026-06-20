@@ -1,0 +1,38 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="WORLD CUP 4K", TSN4 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=2029747&extension=ts
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch616_160_115" group-title="WORLD CUP 4K", NOW SPORT 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=2029749&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/45571.png" group-title="WORLD CUP 4K", FOX Sport 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=2028638&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="WORLD CUP 4K", BBC 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=2028641&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tdbvip/dontknow/refs/heads/main/fussball-bund.png" group-title="WORLD CUP 4K", FUSSBULL.TV1 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=2028632&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="WORLD CUP 2026",CA| TSN 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=1239048&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="WORLD CUP 2026",CA| TSN 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=1239038&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="WORLD CUP 2026",CA| TSN 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=1239030&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="WORLD CUP 2026",CA| TSN 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=1239023&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="WORLD CUP 2026",CA| TSN 5 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=1239014&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/45571.png" group-title="WORLD CUP 2026",US| FOX SPORTS 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=325017&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/45570.png" group-title="WORLD CUP 2026",US| FOX SPORTS 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=429587&extension=ts
+
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="WORLD CUP 2026",UK| BBC 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=162120&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="WORLD CUP 2026",UK| BBC 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=162121&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="WORLD CUP 2026",UK| ITV 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=162105&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="WORLD CUP 2026",UK| ITV 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:94:56:7F&stream=162129&extension=ts
